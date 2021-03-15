@@ -1,5 +1,4 @@
-
-## Salary Transparency - A big Yes or No?
+# <span style="color:#42affa">Salary Transparency - A big Yes or No?</span>
 
 Presentation from
 
