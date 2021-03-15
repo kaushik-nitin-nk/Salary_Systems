@@ -2,7 +2,7 @@
 
 Presentation from
 
-- ### _Thomas Bernard_
+- ### _Thomas Bernards_
 
 - ### _Nitin Kaushik_
 
