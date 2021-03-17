@@ -20,6 +20,8 @@ No individual negotiation but individual salaries
 
 Salary = Rolefactor
 
+---
+
 ## Factors
 
 1. Role factor (market analysis for the average annual salary for a person with 0-2 years of experience)
