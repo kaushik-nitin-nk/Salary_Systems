@@ -8,10 +8,12 @@ Presentation from
 
 ---
 
-### _27% of 5000 Employees surveyed by LinkedIn’s Global Talent Trends 2019 says their company currently shares Salary Ranges with employees, candidates or both._
+### "*27%* of *5000* employees surveyed says their company currently shares Salary Ranges with employees, candidates or both."
+##### *LinkedIn’s Global Talent Trends 2019 *
 
 ---
-
+###
+---
 # sipgate Salary System
 
 Market oriented approach
