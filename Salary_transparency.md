@@ -40,7 +40,8 @@ Presented By
 ## Explore other things
 
 - *51%*, who share salary range -  Agrees it allows them to cover other things during the interview 
-- *31%*, HR professional who do not share salary range - Interview dwell on Negotiations
+
+- *31%*, HR professional who do not share salary range - worry interview dwell too much on Negotiations
 
 ---
  ## Do Businesses dwell on Transparency ?
@@ -48,7 +49,9 @@ Presented By
 ![Salary_Transparency_Pie_Chart ](Image1_salary_transparency_bar_chart.jpg)
 
 ---
+## Buffer Salary System
 
+,, In *2013* Buffer - a social media management company, made all its employee salaries public."
 
 ---
 
