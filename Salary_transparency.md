@@ -98,3 +98,9 @@ plus 4000€ for a masters degree
 plus X per day for on-call service
 
 ---
+## Limitations
+ - Flattened Salary Structure
+ - Resentment from Performance based culture companies 
+ - Personal Considerations 
+ - Additional burden on Budget
+ - Developing a fair Formula
