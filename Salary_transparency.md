@@ -1,20 +1,35 @@
-# <span style="color:#42affa">Salary Transparency - A big Yes or No?</span>
+## Salary Transparency - A big Yes(👍) or No (👎)?
+<br />
+<br />
+Presented By
 
-Presentation from
-
-- ### _Thomas Bernards_
-
-- ### _Nitin Kaushik_
-
----
-
-### "*27%* of *5000* employees surveyed says their company currently shares Salary Ranges with employees, candidates or both."
-##### *LinkedIn’s Global Talent Trends 2019 *
+##### <span style="color:#42affa"> Thomas Bernards & Nitin Kaushik </span>
 
 ---
-###
+ *27%* of *5000* employees surveyed says their company currently shares Salary Ranges with employees, candidates or both."
+ <br />
+<br />
+
+##### <span style="color:#42affa"> *,,LinkedIn’s Global Talent Trends, 2019''* </span>
 ---
-# sipgate Salary System
+## Why Sharing Salary is Good ?
+---
+### Streamlined Salary Negotiation Process 
+
+ - *34%* professionals of who don’t currently disclose salaries - concerned with limited negotiations 
+
+ - *57%* agree they have more streamlined negotiations
+---
+### Fair Pay
+- *55%* professional agrees 
+
+- Building Trust
+<br />
+<br />
+
+,,Sharing salary can remove inqualities and close the gap''
+---
+## Sipgate Salary System
 
 Market oriented approach
 
