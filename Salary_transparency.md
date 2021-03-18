@@ -10,7 +10,7 @@ Presented By
  <br />
 <br />
 
-##### <span style="color:#42affa"> *,,LinkedIn’s Global Talent Trends, 2019''* </span>
+##### <span style="color:#42affa">  *,,LinkedIn’s Global Talent Trends, 2019''* </span>
 ---
 ## Why Sharing Salary is a Good Idea?
 ---
@@ -51,12 +51,16 @@ Presented By
 ---
 ## Buffer Salary System
 
-,, In *2013* Buffer - a social media management company, made all its employee salaries public."
+<span style="color:#42affa"> CORE VALUE : "Default to Transparency" </span>
+
+<br> </br>
+,,In _2013_ Buffer - a social media management company, made all its employee salaries public."
 
 ---
 
 ## Sipgate Salary System
-
+<br>
+</br>
 Market oriented approach
 
 No individual negotiation but individual salaries
