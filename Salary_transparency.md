@@ -12,23 +12,46 @@ Presented By
 
 ##### <span style="color:#42affa"> *,,LinkedIn’s Global Talent Trends, 2019''* </span>
 ---
-## Why Sharing Salary is Good ?
+## Why Sharing Salary is a Good Idea?
 ---
-### Streamlined Salary Negotiation Process 
+## Streamlined Salary Negotiation Process 
 
- - *34%* professionals of who don’t currently disclose salaries - concerned with limited negotiations 
+ - *34%* professionals of who don’t disclose salaries - concerned with limited negotiations 
 
  - *57%* agree they have more streamlined negotiations
 ---
-### Fair Pay
+## Fair Pay
 - *55%* professional agrees 
 
 - Building Trust
 <br />
 <br />
+ ,,Sharing salary can remove inqualities and close the gap, also leading to equal gender-pay''
 
-,,Sharing salary can remove inqualities and close the gap''
 ---
+
+## Streamlined Recruitment Process
+- *54%* respondent from pay-transparent companies agrees
+<br />
+<br />
+ ,,empowering candidates to self-select out of the process early"
+---
+
+## Explore other things
+
+- *51%*, who share salary range -  Agrees it allows them to cover other things during the interview 
+- *31%*, HR professional who do not share salary range - Interview dwell on Negotiations
+
+---
+ ## Do Businesses dwell on Transparency ?
+
+![Salary_Transparency_Pie_Chart ](Image1_salary_transparency_bar_chart.jpg)
+
+---
+
+
+---
+
 ## Sipgate Salary System
 
 Market oriented approach
