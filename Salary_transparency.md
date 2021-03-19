@@ -58,6 +58,20 @@ In _2013_, Buffer - a social media management company, made all its employee sal
 <span style="color:#42affa"> ,,There were so many unknowns, Scared - says Carolyn Kopprash, Chief happiness officer, Buffer”. </span>
 ---
 
+## Salary Formula 3.0
+![Salary Formula](Image2_Salary_Formula.jpg)
+                     
+    - SF 50% Benchmark - San Francisco 50th percentile market rate    
+    - Cost of Living Multiplier - Numbeo data to find geographic 
+                                  bands based on living area cost
+    - Role Multiplier - Contributor to aalary progression
+    - Experience Factor - Applicable experience level      
+
+---
+1. Re-benchmark base pay
+2. Re-evaluate our salary-data source
+3. Integrate the new company-wide career frameworks
+
 ---
 ## Sipgate Salary System
 <br>
@@ -105,3 +119,8 @@ plus X per day for on-call service
  - Personal Considerations 
  - Additional burden on Budget
  - Developing a fair Formula
+---
+## References
+1. https://business.linkedin.com/talent-solutions/blog/trends-and-research/2019/4-reasons-it-pays-to-share-salary-ranges-according-to-companies-that-do
+2. https://business.linkedin.com/talent-solutions/blog/2015/03/what-happened-when-these-companies-made-their-employee-salaries-public
+3. https://business.linkedin.com/talent-solutions/blog/trends-and-research/2019/why-these-3-companies-are-sharing-how-much-their-employees-make
