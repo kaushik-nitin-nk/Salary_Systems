@@ -34,7 +34,7 @@ Presented By
 - *54%* respondent from pay-transparent companies agrees
 <br />
 <br />
- <span style="color:#42affa"> ,,empowering candidates to self-select out of the process early" </span>
+ <span style="color:#42affa"> ,,empowering candidates to self-select out of the recruitment process early" </span>
 ---
 
 ## Explore other things
