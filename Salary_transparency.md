@@ -26,7 +26,7 @@ Presented By
 - Building Trust
 <br />
 <br />
- ,,Sharing salary can remove inqualities and close the gap, also leading to equal gender-pay''
+ <span style="color:#42affa"> ,,Sharing salary can remove inqualities and close the gap, also leading to equal gender-pay'' </span>
 
 ---
 
@@ -34,7 +34,7 @@ Presented By
 - *54%* respondent from pay-transparent companies agrees
 <br />
 <br />
- ,,empowering candidates to self-select out of the process early"
+ <span style="color:#42affa"> ,,empowering candidates to self-select out of the process early" </span>
 ---
 
 ## Explore other things
@@ -53,11 +53,12 @@ Presented By
 
 <span style="color:#42affa"> CORE VALUE : "Default to Transparency" </span>
 
+In _2013_, Buffer - a social media management company, made all its employee salaries public.
 <br> </br>
-,,In _2013_ Buffer - a social media management company, made all its employee salaries public."
-
+<span style="color:#42affa"> ,,There were so many unknowns, Scared - says Carolyn Kopprash, Chief happiness officer, Buffer”. </span>
 ---
 
+---
 ## Sipgate Salary System
 <br>
 </br>
