@@ -64,8 +64,17 @@ In _2013_, Buffer - a social media management company, made all its employee sal
     - SF 50% Benchmark - San Francisco 50th percentile market rate    
     - Cost of Living Multiplier - Numbeo data to find geographic 
                                   bands based on living area cost
-    - Role Multiplier - Contributor to aalary progression
-    - Experience Factor - Applicable experience level      
+    - Role Multiplier - Contributor to salary progression
+    - Experience Factor - Applicable experience level    
+    - Other Factors - Dependent grant and Salary choice option
+
+ <span style="color:#42affa"> Note : _The New Formula Isn’t Based on Location_ </span> 
+
+---
+## Buffer Salaries 2021
+![Buffer Salary](Image3_salary_at_Buffer.jpg)
+
+Full list is available at : [Buffer Salaries 2021](https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjIFuc/edit#gid=671465451)
 
 ---
 1. Re-benchmark base pay
