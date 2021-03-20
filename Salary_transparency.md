@@ -34,18 +34,20 @@ Presented By
 - *54%* respondent from pay-transparent companies agrees
 <br />
 <br />
- <span style="color:#42affa"> ,,empowering candidates to self-select out of the recruitment process early" </span>
+ c,,empowering candidates to self-select out of the recruitment process early" </span>
 ---
 
-## Explore other things
+## Employee Engagement
 
-- *51%*, who share salary range -  Agrees it allows them to cover other things during the interview 
+- *51%*, agrees sharing salary range allows them to cover other things during the interview. 
 
-- *31%*, HR professional who do not share salary range - worry interview dwell too much on Negotiations
+- *31%*, HR professional who do not share salary range - worry interview dwell too much on negotiations.
 
 ---
  ## Do Businesses dwell on Transparency ?
 <img src="Image1_salary_transparency_bar_chart.jpg" alt="Salary Transparency Segregation" height="500"/>
+
+ <span style="color:#42affa"> _,,A Hays’s survey in 2017 discovered that 71% of employees are willing to sacrifice parts of their salary for the right company culture"_ </span>
 
 ---
 ## Buffer Salary System
@@ -84,10 +86,11 @@ Full list is available at : [Buffer Salaries 2021](https://docs.google.com/sprea
 
 Buffer’s new unified career framework divided in two parts :
 
-    1. Levels: Large, distinct steps in Knowledge, Role complexity 
+    1.Levels: Large, distinct steps in Knowledge, Role complexity 
                and Scope.
     2. Steps: Smaller milestones in terms of ownership and initiative.  
 
+<img src="Current_career_framework.jpg" alt="Current_career_framework" width="500"/>
 ---
 ## Sipgate Salary System
 <br>
