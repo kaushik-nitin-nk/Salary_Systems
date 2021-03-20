@@ -166,6 +166,8 @@ plus X per day for on-call service
  - Personal Considerations 
  - Additional burden on Budget
  - Developing a fair Formula
+ - Negative effect on job performance
+ - 
 ---
 ## References
 1. https://business.linkedin.com/talent-solutions/blog/trends-and-research/2019/4-reasons-it-pays-to-share-salary-ranges-according-to-companies-that-do
