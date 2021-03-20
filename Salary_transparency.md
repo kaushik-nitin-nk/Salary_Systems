@@ -45,8 +45,7 @@ Presented By
 
 ---
  ## Do Businesses dwell on Transparency ?
-
-![Salary_Transparency_Pie_Chart ](Image1_salary_transparency_bar_chart.jpg)
+<img src="Image1_salary_transparency_bar_chart.jpg" alt="Salary Transparency Segregation" height="500"/>
 
 ---
 ## Buffer Salary System
@@ -59,7 +58,7 @@ In _2013_, Buffer - a social media management company, made all its employee sal
 ---
 
 ## Buffer Values
-![Buffer Values](Buffer_Values.jpg)
+<img src="Buffer_Values.jpg" alt="Buffer Values" width="500"/>
 ---
 
 ## Salary Formula 3.0
@@ -82,10 +81,12 @@ Full list is available at : [Buffer Salaries 2021](https://docs.google.com/sprea
 
 ---
 ## Growing Horizontally or Vertically?
-Buffer’s new unified career framework divided in to two parts :
 
-    1. Levels : Large, distinct steps in Knowledge, Role complexity and Scope.
-    2. Steps : Smaller milestones in terms of ownership and initiative  
+Buffer’s new unified career framework divided in two parts :
+
+    1. Levels: Large, distinct steps in Knowledge, Role complexity 
+               and Scope.
+    2. Steps: Smaller milestones in terms of ownership and initiative.  
 
 ---
 ## Sipgate Salary System
