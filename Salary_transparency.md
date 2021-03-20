@@ -24,9 +24,9 @@ Presented By
 - *55%* professional agrees 
 
 - Building Trust
-<br />
-<br />
- <span style="color:#42affa"> ,,Sharing salary can remove inqualities and close the gap, also leading to equal gender-pay'' </span>
+
+
+ <span style="color:#42affa"> *,,Sharing salary can remove inqualities and close the gap, also leading to equal gender-pay''.*</span>
 
 ---
 
@@ -34,7 +34,7 @@ Presented By
 - *54%* respondent from pay-transparent companies agrees
 <br />
 <br />
- c,,empowering candidates to self-select out of the recruitment process early" </span>
+<span style="color:#42affa"> ,,empowering candidates to self-select out of the recruitment process early" </span>
 ---
 
 ## Employee Engagement
@@ -45,18 +45,20 @@ Presented By
 
 ---
  ## Do Businesses dwell on Transparency ?
-<img src="Image1_salary_transparency_bar_chart.jpg" alt="Salary Transparency Segregation" height="500"/>
+<img src="Image1_salary_transparency_bar_chart.jpg" alt="Salary Transparency Segregation" height="300"/>
 
  <span style="color:#42affa"> _,,A Hays’s survey in 2017 discovered that 71% of employees are willing to sacrifice parts of their salary for the right company culture"_ </span>
 
 ---
 ## Buffer Salary System
 
-<span style="color:#42affa"> CORE VALUE : "Default to Transparency" </span>
+<span style="color:#42affa"> *CORE VALUE : "Default to Transparency"* </span>
 
 In _2013_, Buffer - a social media management company, made all its employee salaries public.
 <br> </br>
-<span style="color:#42affa"> ,,There were so many unknowns, Scared - says Carolyn Kopprash, Chief happiness officer, Buffer”. </span>
+
+<span style="color:#42affa"> _,,There were so many unknowns, Scared - says Carolyn Kopprash, Chief happiness officer, Buffer”._ </span>
+
 ---
 
 ## Buffer Values
@@ -84,13 +86,39 @@ Full list is available at : [Buffer Salaries 2021](https://docs.google.com/sprea
 ---
 ## Growing Horizontally or Vertically?
 
-Buffer’s new unified career framework divided in two parts :
+Buffer’s new unified career framework made career progression transparent :
 
     1.Levels: Large, distinct steps in Knowledge, Role complexity 
                and Scope.
     2. Steps: Smaller milestones in terms of ownership and initiative.  
 
 <img src="Current_career_framework.jpg" alt="Current_career_framework" width="500"/>
+---
+
+## Transparency at Buffer 
+
+    -Finances and salaries
+        -Salary calculator
+        -Salary formula
+        -Team salaries
+        -Revenue dashboard
+    -Workplace culture
+        -Open source code
+        -Open blog
+        -Remote work
+        -Diversity dashboard
+        -Values
+    -Business and SaaS strategy
+        -Product roadmap‍
+    -End of year reports
+        -2016
+        -2017
+        -2018
+    -Equal pay report
+        -2017
+        -2018
+        -2019
+        -2020
 ---
 ## Sipgate Salary System
 <br>
