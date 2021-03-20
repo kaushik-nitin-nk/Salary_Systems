@@ -58,13 +58,17 @@ In _2013_, Buffer - a social media management company, made all its employee sal
 <span style="color:#42affa"> ,,There were so many unknowns, Scared - says Carolyn Kopprash, Chief happiness officer, Buffer”. </span>
 ---
 
+## Buffer Values
+![Buffer Values](Buffer_Values.jpg)
+---
+
 ## Salary Formula 3.0
 ![Salary Formula](Image2_Salary_Formula.jpg)
                      
     - SF 50% Benchmark - San Francisco 50th percentile market rate    
     - Cost of Living Multiplier - Numbeo data to find geographic 
                                   bands based on living area cost
-    - Role Multiplier - Contributor to salary progression
+    - Role Multiplier - Contributor to salary progression & Seniority
     - Experience Factor - Applicable experience level    
     - Other Factors - Dependent grant and Salary choice option
 
@@ -77,9 +81,11 @@ In _2013_, Buffer - a social media management company, made all its employee sal
 Full list is available at : [Buffer Salaries 2021](https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjIFuc/edit#gid=671465451)
 
 ---
-1. Re-benchmark base pay
-2. Re-evaluate our salary-data source
-3. Integrate the new company-wide career frameworks
+## Growing Horizontally or Vertically?
+Buffer’s new unified career framework divided in to two parts :
+
+    1. Levels : Large, distinct steps in Knowledge, Role complexity and Scope.
+    2. Steps : Smaller milestones in terms of ownership and initiative  
 
 ---
 ## Sipgate Salary System
@@ -133,3 +139,6 @@ plus X per day for on-call service
 1. https://business.linkedin.com/talent-solutions/blog/trends-and-research/2019/4-reasons-it-pays-to-share-salary-ranges-according-to-companies-that-do
 2. https://business.linkedin.com/talent-solutions/blog/2015/03/what-happened-when-these-companies-made-their-employee-salaries-public
 3. https://business.linkedin.com/talent-solutions/blog/trends-and-research/2019/why-these-3-companies-are-sharing-how-much-their-employees-make
+4. https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjIFuc/edit#gid=671465451
+5. https://buffer.com/resources/salary-formula-changes-2019/
+6. https://buffer.com/resources/salary-formula/
