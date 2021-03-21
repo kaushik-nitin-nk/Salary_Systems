@@ -63,7 +63,7 @@ _27%_ of _5000_ employees surveyed says their company currently shares Salary Ra
 
 ---
 
-![Businesses are split on transparency](introduction-salary-share.jpg)
+![Businesses are split on transparency](sharesalary.png)
 
 ---
 
@@ -86,7 +86,7 @@ In _2013_, Buffer - a social media management company, made all its employee sal
 
 ## Salary Formula 3.0
 
-![Salary Formula](Image2_Salary_Formula.jpg)
+![Salary Formula](Imag e2_Salary_Formula.jpg)
 
     - SF 50% Benchmark - San Francisco 50th percentile market rate
     - Cost of Living Multiplier - Numbeo data to find geographic
@@ -152,11 +152,11 @@ Buffer’s new unified career framework made career progression transparent :
 
 ## Sipgate :telephone_receiver:
 
-- 🏢 Telecommunication company
+🏢 Telecommunication company
 
-- 🌐 Located in Düsseldorf
+🌐 Located in Düsseldorf
 
-- 👩👨 200 employees
+👩👨 200 employees
 
 ---
 
@@ -226,13 +226,13 @@ Studied and non-studied earn the same but studying costs time so if you study yo
 
 ## Morning Star
 
-- 🏢 Chicago-based investment research firm
+🏢 Chicago-based investment research firm
 
-- 📈 Fund, stock and market data analysts
+📈 Fund, stock and market data analysts
 
-- 🔧 Provide internet, software & printed-based products for individual customer groups
+🔧 Provide internet, software & printed-based products for individual customer groups
 
-- 👩👨 close to 8000 employees
+👩👨 close to 8000 employees
 
 ---
 
