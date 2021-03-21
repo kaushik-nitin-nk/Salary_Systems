@@ -111,6 +111,7 @@ Buffer’s new unified career framework made career progression transparent :
 
 ## <img src="Current_career_framework.jpg" alt="Current_career_framework" width="500"/>
 
+---
 ## Transparency at Buffer
 
     -Finances and salaries
@@ -230,8 +231,8 @@ Summary of all systems
 - Negative effect on job performance
 - ***
 
+---
 ## References
-
 1. https://business.linkedin.com/talent-solutions/blog/trends-and-research/2019/4-reasons-it-pays-to-share-salary-ranges-according-to-companies-that-do
 2. https://business.linkedin.com/talent-solutions/blog/2015/03/what-happened-when-these-companies-made-their-employee-salaries-public
 3. https://business.linkedin.com/talent-solutions/blog/trends-and-research/2019/why-these-3-companies-are-sharing-how-much-their-employees-make
