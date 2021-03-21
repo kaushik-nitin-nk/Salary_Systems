@@ -152,11 +152,11 @@ Buffer’s new unified career framework made career progression transparent :
 
 ## Sipgate :telephone_receiver:
 
-- :office: Telecommunication company
+- 🏢 Telecommunication company
 
-- :globe_with_meridians: Located in Düsseldorf
+- 🌐 Located in Düsseldorf
 
-- :woman::man: 200 employees
+- 👩👨 200 employees
 
 ---
 
@@ -210,7 +210,7 @@ Studied and non-studied earn the same but studying costs time so if you study yo
 
 ---
 
-## :euro: Welcome to Morning Star, how much money would you like to earn? :dollar:
+## 💶 Welcome to Morning Star, how much money would you like to earn? 💵
 
 ---
 
@@ -226,13 +226,13 @@ Studied and non-studied earn the same but studying costs time so if you study yo
 
 ## Morning Star
 
-- :office: Chicago-based investment research firm
+- 🏢 Chicago-based investment research firm
 
-- :chart_with_upwards_trend: Fund, stock and market data analysts
+- 📈 Fund, stock and market data analysts
 
-- :wrench: Provide internet, software & printed-based products for individual customer groups
+- 🔧 Provide internet, software & printed-based products for individual customer groups
 
-- :woman::man: close to 8000 employees
+- 👩👨 close to 8000 employees
 
 ---
 
