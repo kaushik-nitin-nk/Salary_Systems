@@ -4,7 +4,7 @@
 <br />
 Presented By
 
-##### <span style="color:#42affa"> Thomas Bernards & Nitin Kaushik </span>
+##### <span style="color:#42affa"> Thomas Bernard & Nitin Kaushik </span>
 
 ---
 
@@ -77,7 +77,7 @@ In _2013_, Buffer - a social media management company, made all its employee sal
 ## Buffer Values
 
 ## <img src="Buffer_Values.jpg" alt="Buffer Values" width="500"/>
-
+---
 ## Salary Formula 3.0
 
 ![Salary Formula](Image2_Salary_Formula.jpg)
