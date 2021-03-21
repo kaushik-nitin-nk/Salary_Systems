@@ -2,7 +2,7 @@
 
 <br />
 <br />
-Presented By
+Presented by
 
 ##### <span style="color:#42affa"> Thomas Bernard & Nitin Kaushik </span>
 
@@ -107,7 +107,7 @@ Full list is available at : [Buffer Salaries 2021](https://docs.google.com/sprea
 
 ---
 
-![Buffer Benchmark](buffer.jpg)
+![Buffer Benchmark](buffer.png)
 
 ---
 
@@ -150,13 +150,13 @@ Buffer’s new unified career framework made career progression transparent :
 
 ---
 
-## Sipgate
+## Sipgate :telephone_receiver:
 
-Telecommunication company
+- :office: Telecommunication company
 
-Located in Düsseldorf
+- :globe_with_meridians: Located in Düsseldorf
 
-200 Employees
+- :woman::man: 200 employees
 
 ---
 
@@ -168,31 +168,31 @@ No individual negotiation but individual salaries
 
 More transparency leads to less discussion
 
-A salary raise each year for all
+Salary raise each year for all
 
 ---
 
 ## Factors
 
-1. Role factor (market analysis for the average annual salary for a person with 0-2 years of experience)
+1. **Role factor** based on market analysis
 
-2. Local points based on the plant location
+2. **Local Points** based on the plant location
 
-3. Currency Factor (10€)
+3. **Currency Factor** (10€)
 
-4. Role Fixum for everybody (1000€)
+4. **Role Fixum** for everybody (1000€)
 
-5. Loyalty 1,8% of base after 10 years it goes down to 1,2%
+5. **Loyalty** based on company affiliation
 
-6. Experience counts if the employee has spent time with the topic
+6. **Experience** based on field of knowledge
 
-   _Note: Factor 5 & 6 are frozen after 15 years_
+   _Factor 5 & 6 are frozen after 15 years_
 
 ---
 
 ## Additional Factors
 
-Studied and non-studied earn the same but studying costs time so if you study you lose time that you could have gathered for factor 5 (Loyalty) & 6 (Experience) so you receive:
+Studied and non-studied earn the same but studying costs time so if you study you lose time that you could have gathered for factor Loyalty & Experience:
 
 - plus 2000€ for a bachelors degree
 
@@ -210,27 +210,29 @@ Studied and non-studied earn the same but studying costs time so if you study yo
 
 ---
 
-## Welcome to Morning Star, how much money would you like to earn?
+## :euro: Welcome to Morning Star, how much money would you like to earn? :dollar:
 
 ---
 
 ## What are the first things that come to mind?
 
-Employees will take advantage of this!
+**Employees will take advantage of this!**
 
-How do we know if the payment is appropriate?
+**How do we know if the payment is appropriate?**
 
-Do we now live in anarchy?
+**Do we now live in anarchy?**
 
 ---
 
 ## Morning Star
 
-Chicago-based investment research firm
+- :office: Chicago-based investment research firm
 
-Fund, stock and market data analysts
+- :chart_with_upwards_trend: Fund, stock and market data analysts
 
-Provide internet, software & printed-based products for individual customer groups
+- :wrench: Provide internet, software & printed-based products for individual customer groups
+
+- :woman::man: close to 8000 employees
 
 ---
 
