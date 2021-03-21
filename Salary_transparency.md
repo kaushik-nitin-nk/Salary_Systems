@@ -1,4 +1,5 @@
 ## Salary Transparency - A big Yes(👍) or No (👎)?
+
 <br />
 <br />
 Presented By
@@ -6,53 +7,65 @@ Presented By
 ##### <span style="color:#42affa"> Thomas Bernards & Nitin Kaushik </span>
 
 ---
- *27%* of *5000* employees surveyed says their company currently shares Salary Ranges with employees, candidates or both."
- <br />
+
+_27%_ of _5000_ employees surveyed says their company currently shares Salary Ranges with employees, candidates or both."
+<br />
 <br />
 
-##### <span style="color:#42affa">  *,,LinkedIn’s Global Talent Trends, 2019''* </span>
+##### <span style="color:#42affa"> _,,LinkedIn’s Global Talent Trends, 2019''_ </span>
+
 ---
+
 ## Why Sharing Salary is a Good Idea?
----
-## Streamlined Salary Negotiation Process 
 
- - *34%* professionals of who don’t disclose salaries - concerned with limited negotiations 
-
- - *57%* agree they have more streamlined negotiations
 ---
+
+## Streamlined Salary Negotiation Process
+
+- _34%_ professionals of who don’t disclose salaries - concerned with limited negotiations
+
+- _57%_ agree they have more streamlined negotiations
+
+---
+
 ## Fair Pay
-- *55%* professional agrees 
+
+- _55%_ professional agrees
 
 - Building Trust
 
-
- <span style="color:#42affa"> *,,Sharing salary can remove inqualities and close the gap, also leading to equal gender-pay''.*</span>
+<span style="color:#42affa"> _,,Sharing salary can remove inqualities and close the gap, also leading to equal gender-pay''._</span>
 
 ---
 
 ## Streamlined Recruitment Process
-- *54%* respondent from pay-transparent companies agrees
-<br />
-<br />
-<span style="color:#42affa"> ,,empowering candidates to self-select out of the recruitment process early" </span>
+
+- _54%_ respondent from pay-transparent companies agrees
+  <br />
+  <br />
+  <span style="color:#42affa"> ,,empowering candidates to self-select out of the recruitment process early" </span>
+
 ---
 
 ## Employee Engagement
 
-- *51%*, agrees sharing salary range allows them to cover other things during the interview. 
+- _51%_, agrees sharing salary range allows them to cover other things during the interview.
 
-- *31%*, HR professional who do not share salary range - worry interview dwell too much on negotiations.
+- _31%_, HR professional who do not share salary range - worry interview dwell too much on negotiations.
 
 ---
- ## Do Businesses dwell on Transparency ?
+
+## Do Businesses dwell on Transparency ?
+
 <img src="Image1_salary_transparency_bar_chart.jpg" alt="Salary Transparency Segregation" height="300"/>
 
- <span style="color:#42affa"> _,,A Hays’s survey in 2017 discovered that 71% of employees are willing to sacrifice parts of their salary for the right company culture"_ </span>
+<span style="color:#42affa"> _,,A Hays’s survey in 2017 discovered that 71% of employees are willing to sacrifice parts of their salary for the right company culture"_ </span>
 
 ---
+
 ## Buffer Salary System
 
-<span style="color:#42affa"> *CORE VALUE : "Default to Transparency"* </span>
+<span style="color:#42affa"> _CORE VALUE : "Default to Transparency"_ </span>
 
 In _2013_, Buffer - a social media management company, made all its employee salaries public.
 <br> </br>
@@ -62,40 +75,43 @@ In _2013_, Buffer - a social media management company, made all its employee sal
 ---
 
 ## Buffer Values
-<img src="Buffer_Values.jpg" alt="Buffer Values" width="500"/>
----
+
+## <img src="Buffer_Values.jpg" alt="Buffer Values" width="500"/>
 
 ## Salary Formula 3.0
+
 ![Salary Formula](Image2_Salary_Formula.jpg)
-                     
-    - SF 50% Benchmark - San Francisco 50th percentile market rate    
-    - Cost of Living Multiplier - Numbeo data to find geographic 
+
+    - SF 50% Benchmark - San Francisco 50th percentile market rate
+    - Cost of Living Multiplier - Numbeo data to find geographic
                                   bands based on living area cost
     - Role Multiplier - Contributor to salary progression & Seniority
-    - Experience Factor - Applicable experience level    
+    - Experience Factor - Applicable experience level
     - Other Factors - Dependent grant and Salary choice option
 
- <span style="color:#42affa"> Note : _The New Formula Isn’t Based on Location_ </span> 
+<span style="color:#42affa"> Note : _The New Formula Isn’t Based on Location_ </span>
 
 ---
+
 ## Buffer Salaries 2021
+
 ![Buffer Salary](Image3_salary_at_Buffer.jpg)
 
 Full list is available at : [Buffer Salaries 2021](https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjIFuc/edit#gid=671465451)
 
 ---
+
 ## Growing Horizontally or Vertically?
 
 Buffer’s new unified career framework made career progression transparent :
 
-    1.Levels: Large, distinct steps in Knowledge, Role complexity 
+    1.Levels: Large, distinct steps in Knowledge, Role complexity
                and Scope.
-    2. Steps: Smaller milestones in terms of ownership and initiative.  
+    2. Steps: Smaller milestones in terms of ownership and initiative.
 
-<img src="Current_career_framework.jpg" alt="Current_career_framework" width="500"/>
----
+## <img src="Current_career_framework.jpg" alt="Current_career_framework" width="500"/>
 
-## Transparency at Buffer 
+## Transparency at Buffer
 
     -Finances and salaries
         -Salary calculator
@@ -119,8 +135,11 @@ Buffer’s new unified career framework made career progression transparent :
         -2018
         -2019
         -2020
+
 ---
+
 ## Sipgate Salary System
+
 <br>
 </br>
 Market oriented approach
@@ -160,16 +179,59 @@ plus 4000€ for a masters degree
 plus X per day for on-call service
 
 ---
-## Limitations
- - Flattened Salary Structure
- - Resentment from Performance based culture companies 
- - Personal Considerations 
- - Additional burden on Budget
- - Developing a fair Formula
- - Negative effect on job performance
- - 
+
+## Welcome to Morning Star, please set your own salaries!
+
 ---
+
+## What are the first things that come to mind?
+
+Employees will take advantage of this!
+
+How do we know if the payment is legit?
+
+Do we now live in anarchy?
+
+## Morning Star
+
+Chicago-based investement research firm
+
+Fund, stock and market data analists
+
+Provide internet, software & printed-based products for individual customer groups
+
+---
+
+## Morning Star salary system
+
+Employees propose compensation to a compensation commiteee
+
+Yearly process:
+
+- Write a letter containing peer feedback and data
+
+- Letter is sent to the compensation commitee They provide feedback
+
+- Employees set salary with the provided Feedback
+
+---
+
+Summary of all systems
+
+---
+
+## Limitations
+
+- Flattened Salary Structure
+- Resentment from Performance based culture companies
+- Personal Considerations
+- Additional burden on Budget
+- Developing a fair Formula
+- Negative effect on job performance
+- ***
+
 ## References
+
 1. https://business.linkedin.com/talent-solutions/blog/trends-and-research/2019/4-reasons-it-pays-to-share-salary-ranges-according-to-companies-that-do
 2. https://business.linkedin.com/talent-solutions/blog/2015/03/what-happened-when-these-companies-made-their-employee-salaries-public
 3. https://business.linkedin.com/talent-solutions/blog/trends-and-research/2019/why-these-3-companies-are-sharing-how-much-their-employees-make
