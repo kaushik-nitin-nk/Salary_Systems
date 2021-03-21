@@ -34,7 +34,7 @@ _27%_ of _5000_ employees surveyed says their company currently shares Salary Ra
 
 - Building Trust
 
-<span style="color:#42affa"> _,,Sharing salary can remove inqualities and close the gap, also leading to equal gender-pay''._</span>
+<span style="color:#42affa"> _,,Sharing salary can remove inequalities and close the gap, also leading to equal gender-pay''._</span>
 
 ---
 
@@ -57,9 +57,13 @@ _27%_ of _5000_ employees surveyed says their company currently shares Salary Ra
 
 ## Do Businesses dwell on Transparency ?
 
-<img src="Image1_salary_transparency_bar_chart.jpg" alt="Salary Transparency Segregation" height="300"/>
+ <img src="Image1_salary_transparency_bar_chart.jpg" alt="Salary Transparency Segregation" height="300"/>
 
 <span style="color:#42affa"> _,,A Hays’s survey in 2017 discovered that 71% of employees are willing to sacrifice parts of their salary for the right company culture"_ </span>
+
+---
+
+![Businesses are split on transparency](introduction-salary-share.jpg)
 
 ---
 
@@ -77,7 +81,9 @@ In _2013_, Buffer - a social media management company, made all its employee sal
 ## Buffer Values
 
 ## <img src="Buffer_Values.jpg" alt="Buffer Values" width="500"/>
+
 ---
+
 ## Salary Formula 3.0
 
 ![Salary Formula](Image2_Salary_Formula.jpg)
@@ -101,6 +107,10 @@ Full list is available at : [Buffer Salaries 2021](https://docs.google.com/sprea
 
 ---
 
+![Buffer Benchmark](buffer.jpg)
+
+---
+
 ## Growing Horizontally or Vertically?
 
 Buffer’s new unified career framework made career progression transparent :
@@ -112,6 +122,7 @@ Buffer’s new unified career framework made career progression transparent :
 ## <img src="Current_career_framework.jpg" alt="Current_career_framework" width="500"/>
 
 ---
+
 ## Transparency at Buffer
 
     -Finances and salaries
@@ -139,15 +150,25 @@ Buffer’s new unified career framework made career progression transparent :
 
 ---
 
-## Sipgate Salary System
+## Sipgate
 
-<br>
-</br>
-Market oriented approach
+Telecommunication company
+
+Located in Düsseldorf
+
+200 Employees
+
+---
+
+## Sipgate Lean Salary Framework
+
+Market-oriented approach
 
 No individual negotiation but individual salaries
 
-Salary = Rolefactor
+More transparency leads to less discussion
+
+A salary raise each year for all
 
 ---
 
@@ -155,7 +176,7 @@ Salary = Rolefactor
 
 1. Role factor (market analysis for the average annual salary for a person with 0-2 years of experience)
 
-2. Local points basd on the plant location (20.000 points in Düsseldorf)
+2. Local points based on the plant location
 
 3. Currency Factor (10€)
 
@@ -165,23 +186,31 @@ Salary = Rolefactor
 
 6. Experience counts if the employee has spent time with the topic
 
-_Note: Factor 5 & 6 are frozen after 15 years_
+   _Note: Factor 5 & 6 are frozen after 15 years_
 
 ---
 
 ## Additional Factors
 
-Studied and non-studied persons earn the same but studying costs time so if you study you lose time that you could have gathered for factor 5 & 6 so you receive:
+Studied and non-studied earn the same but studying costs time so if you study you lose time that you could have gathered for factor 5 (Loyalty) & 6 (Experience) so you receive:
 
-plus 2000€ for a bachelors degree
+- plus 2000€ for a bachelors degree
 
-plus 4000€ for a masters degree
+- plus 4000€ for a masters degree
 
-plus X per day for on-call service
+- plus X per day for on-call service
 
 ---
 
-## Welcome to Morning Star, please set your own salaries!
+![Sipgate](Sipgate.jpg)
+
+---
+
+## Pros and Cons List
+
+---
+
+## Welcome to Morning Star, how much money would you like to earn?
 
 ---
 
@@ -189,15 +218,17 @@ plus X per day for on-call service
 
 Employees will take advantage of this!
 
-How do we know if the payment is legit?
+How do we know if the payment is appropriate?
 
 Do we now live in anarchy?
 
+---
+
 ## Morning Star
 
-Chicago-based investement research firm
+Chicago-based investment research firm
 
-Fund, stock and market data analists
+Fund, stock and market data analysts
 
 Provide internet, software & printed-based products for individual customer groups
 
@@ -205,15 +236,7 @@ Provide internet, software & printed-based products for individual customer grou
 
 ## Morning Star salary system
 
-Employees propose compensation to a compensation commiteee
-
-Yearly process:
-
-- Write a letter containing peer feedback and data
-
-- Letter is sent to the compensation commitee They provide feedback
-
-- Employees set salary with the provided Feedback
+![Morning Star](morningstar.jpg)
 
 ---
 
@@ -224,15 +247,16 @@ Summary of all systems
 ## Limitations
 
 - Flattened Salary Structure
-- Resentment from Performance based culture companies
-- Personal Considerations
-- Additional burden on Budget
-- Developing a fair Formula
+- Resentment from performance based culture companies
+- Personal considerations
+- Additional burden on budget
+- Developing a fair formula
 - Negative effect on job performance
-- ***
 
 ---
+
 ## References
+
 1. https://business.linkedin.com/talent-solutions/blog/trends-and-research/2019/4-reasons-it-pays-to-share-salary-ranges-according-to-companies-that-do
 2. https://business.linkedin.com/talent-solutions/blog/2015/03/what-happened-when-these-companies-made-their-employee-salaries-public
 3. https://business.linkedin.com/talent-solutions/blog/trends-and-research/2019/why-these-3-companies-are-sharing-how-much-their-employees-make
