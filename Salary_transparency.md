@@ -242,7 +242,12 @@ Studied and non-studied earn the same but studying costs time so if you study yo
 
 ---
 
-Summary of all systems
+## The evolution of salaries
+
+| **Name** |    Buffer and sipgate     |                Morningstar |
+| :------- | :-----------------------: | -------------------------: |
+| **How?** |          Formula          |            Self-assessment |
+| **Why?** | Transparency and Fairness | Sensitize / Responsibility |
 
 ---
 
