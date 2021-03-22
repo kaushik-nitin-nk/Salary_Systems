@@ -226,13 +226,19 @@ Studied and non-studied earn the same but studying costs time so if you study yo
 
 ## Morning Star
 
-🏢 Chicago-based investment research firm
+🏢 Tomato processing and packing company from California
 
-📈 Fund, stock and market data analysts
+🍅 Supply 40% of national markets with tomato slices and paste
 
-🔧 Provide internet, software & printed-based products for individual customer groups
+👩👨 550 year round & 2,500 seasonal colleagues
 
-👩👨 close to 8000 employees
+---
+
+> "Mission Focused Self-Management is simple:
+> Our personal commercial missions drive our colleagues’ activities and coordination with an internal and external customer focus.
+> Our relationships are based on Human Respect.”
+
+by Chris Rufer [CEO and Founder]
 
 ---
 
@@ -244,9 +250,9 @@ Studied and non-studied earn the same but studying costs time so if you study yo
 
 ## The evolution of salaries
 
-| **Name** |    Buffer and sipgate     |                Morningstar |
-| :------- | :-----------------------: | -------------------------: |
-| **How?** |          Formula          |            Self-assessment |
+| **Name** |    Buffer and sipgate     |        Morningstar         |
+| :------- | :-----------------------: | :------------------------: |
+| **How?** |          Formula          |      Self-assessment       |
 | **Why?** | Transparency and Fairness | Sensitize / Responsibility |
 
 ---
