@@ -174,19 +174,19 @@ Salary raise each year for all
 
 ## Factors
 
-1. **Role factor** based on market analysis
+**_1. Role factor_** based on market analysis
 
-2. **Local Points** based on the plant location
+**_2. Local Points_** based on the plant location
 
-3. **Currency Factor** (10€)
+**_3.Currency Factor_** (10€)
 
-4. **Role Fixum** for everybody (1000€)
+**_4. Role Fixum_** for everybody (1000€)
 
-5. **Loyalty** based on company affiliation
+**_5. Loyalty_** based on company affiliation
 
-6. **Experience** based on field of knowledge
+**_6. Experience_** based on field of knowledge
 
-   _Factor 5 & 6 are frozen after 15 years_
+_Factor 5 & 6 are frozen after 15 years_
 
 ---
 
