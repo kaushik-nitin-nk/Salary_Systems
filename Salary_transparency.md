@@ -99,15 +99,16 @@ In _2013_, Buffer - made all its employee salaries public.
     - Experience Factor - Applicable experience level
     - Other Factors - Dependent grant and Salary choice option
     
-> Note : _The New Formula Isn’t Based on Location_ 
+> Note : _The new formula isn’t based on location_ 
 ---
 
-## Buffer Salaries 2021
+## Improvement to Salary Formula
 
-![Buffer Salary](Image3_salary_at_Buffer.jpg)
+* Re-benchmark base pay
+* Re-evaluate our salary-data source
+* Integrate the new company-wide career frameworks
 
-Full list is available at : [Buffer Salaries 2021](https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjIFuc/edit#gid=671465451)
-
+> _Overall, this resulted in an annual budget increase of $711,565._
 ---
 
 ## Growing Horizontally or Vertically?
@@ -119,6 +120,20 @@ Buffer’s new unified career framework made career progression transparent :
     2. Steps: Smaller milestones in terms of ownership and initiative.
 
 ## <img src="Current_career_framework.jpg" alt="Current_career_framework" width="500"/>
+
+---
+
+## Buffer Salaries 2021
+
+![Buffer Salary](Image3_salary_at_Buffer.jpg)
+
+Full list is available at : [Buffer Salaries 2021](https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjIFuc/edit#gid=671465451)
+
+---
+
+##  🔜
+
+Changes to the Cost of Living Factor
 
 ---
 
@@ -269,9 +284,12 @@ by Chris Rufer [CEO and Founder]
 
 ## References
 
-1. https://business.linkedin.com/talent-solutions/blog/trends-and-research/2019/4-reasons-it-pays-to-share-salary-ranges-according-to-companies-that-do
-2. https://business.linkedin.com/talent-solutions/blog/2015/03/what-happened-when-these-companies-made-their-employee-salaries-public
-3. https://business.linkedin.com/talent-solutions/blog/trends-and-research/2019/why-these-3-companies-are-sharing-how-much-their-employees-make
-4. https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjIFuc/edit#gid=671465451
-5. https://buffer.com/resources/salary-formula-changes-2019/
-6. https://buffer.com/resources/salary-formula/
+    1. https://business.linkedin.com/talent-solutions/blog/trends-and-research/2019/4-reasons-it-pays-to-share-salary-ranges-according-to-companies-that-do
+    2. https://business.linkedin.com/talent-solutions/blog/2015/03/what-happened-when-these-companies-made-their-employee-salaries-public
+    3. https://business.linkedin.com/talent-solutions/blog/trends-and-research/2019/why-these-3-companies-are-sharing-how-much-their-employees-make
+    4. https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjIFuc/edit#gid=671465451
+    5. https://buffer.com/resources/salary-formula-changes-2019/
+    6. https://buffer.com/resources/salary-formula/
+    7. https://www.agile42.com/en/blog/2017/01/20/sipgate-different-company/
+    8. https://www.sipgate.de/
+    
