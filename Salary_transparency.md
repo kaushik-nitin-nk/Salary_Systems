@@ -71,6 +71,12 @@ _27%_ of _5000_ employees surveyed says their company currently shares Salary Ra
 👩👨 85 people living and working in 15 countries
 
 ---
+## Buffer Values
+
+<img src="Buffer_Values.jpg" alt="Buffer Values" width="500"/>
+
+---
+
 
 ## Buffer Salary System
 
@@ -83,15 +89,8 @@ In _2013_, Buffer - made all its employee salaries public.
 
 ---
 
-## Buffer Values
-
-## <img src="Buffer_Values.jpg" alt="Buffer Values" width="500"/>
-
----
-
 ## Salary Formula 3.0
-
-![Buffer Benchmark](buffer.png)
+<img src="buffer.png" alt="Buffer Benchmark" height="200"/>
 
     - SF 50% Benchmark - San Francisco 50th percentile market rate
     - Cost of Living Multiplier - Numbeo data to find geographic
@@ -99,9 +98,8 @@ In _2013_, Buffer - made all its employee salaries public.
     - Role Multiplier - Contributor to salary progression & Seniority
     - Experience Factor - Applicable experience level
     - Other Factors - Dependent grant and Salary choice option
-
+    
 > Note : _The New Formula Isn’t Based on Location_ 
-
 ---
 
 ## Buffer Salaries 2021
