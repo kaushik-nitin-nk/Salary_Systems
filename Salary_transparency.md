@@ -11,8 +11,7 @@ Presented by
 _27%_ of _5000_ employees surveyed says their company currently shares Salary Ranges with employees, candidates or both."
 <br />
 <br />
-
-##### <span style="color:#42affa"> _,,LinkedIn’s Global Talent Trends, 2019''_ </span>
+> _,,LinkedIn’s Global Talent Trends, 2019''_ 
 
 ---
 
@@ -34,7 +33,7 @@ _27%_ of _5000_ employees surveyed says their company currently shares Salary Ra
 
 - Building Trust
 
-<span style="color:#42affa"> _,,Sharing salary can remove inequalities and close the gap, also leading to equal gender-pay''._</span>
+ > _,,Sharing salary can remove inequalities and close the gap, also leading to equal gender-pay''._
 
 ---
 
@@ -43,7 +42,8 @@ _27%_ of _5000_ employees surveyed says their company currently shares Salary Ra
 - _54%_ respondent from pay-transparent companies agrees
   <br />
   <br />
-  <span style="color:#42affa"> ,,empowering candidates to self-select out of the recruitment process early" </span>
+
+> _,,empowering candidates to self-select out of the recruitment process early"._
 
 ---
 
@@ -56,25 +56,30 @@ _27%_ of _5000_ employees surveyed says their company currently shares Salary Ra
 ---
 
 ## Do Businesses dwell on Transparency ?
+ <img src="sharesalary.png" alt="Businesses are split on transparency" height="200" width='500'/>
 
- <img src="Image1_salary_transparency_bar_chart.jpg" alt="Salary Transparency Segregation" height="300"/>
-
-<span style="color:#42affa"> _,,A Hays’s survey in 2017 discovered that 71% of employees are willing to sacrifice parts of their salary for the right company culture"_ </span>
+> _,,71% of employees are willing to sacrifice parts of their salary for the right company culture - HAYS, 2017 "_
 
 ---
 
-![Businesses are split on transparency](sharesalary.png)
+## Buffer
+
+🏢 Social media management company helping clients build their brands.
+
+💸 Serving more than 73,000 customers
+
+👩👨 85 people living and working in 15 countries
 
 ---
 
 ## Buffer Salary System
 
-<span style="color:#42affa"> _CORE VALUE : "Default to Transparency"_ </span>
+> _CORE VALUE : "Default to Transparency"_
 
-In _2013_, Buffer - a social media management company, made all its employee salaries public.
+In _2013_, Buffer - made all its employee salaries public.
 <br> </br>
 
-<span style="color:#42affa"> _,,There were so many unknowns, Scared - says Carolyn Kopprash, Chief happiness officer, Buffer”._ </span>
+> _,,There were so many unknowns, Scared - says Carolyn Kopprash, Chief happiness officer, Buffer”._
 
 ---
 
@@ -86,7 +91,7 @@ In _2013_, Buffer - a social media management company, made all its employee sal
 
 ## Salary Formula 3.0
 
-![Salary Formula](Imag e2_Salary_Formula.jpg)
+![Buffer Benchmark](buffer.png)
 
     - SF 50% Benchmark - San Francisco 50th percentile market rate
     - Cost of Living Multiplier - Numbeo data to find geographic
@@ -95,7 +100,7 @@ In _2013_, Buffer - a social media management company, made all its employee sal
     - Experience Factor - Applicable experience level
     - Other Factors - Dependent grant and Salary choice option
 
-<span style="color:#42affa"> Note : _The New Formula Isn’t Based on Location_ </span>
+> Note : _The New Formula Isn’t Based on Location_ 
 
 ---
 
@@ -104,10 +109,6 @@ In _2013_, Buffer - a social media management company, made all its employee sal
 ![Buffer Salary](Image3_salary_at_Buffer.jpg)
 
 Full list is available at : [Buffer Salaries 2021](https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjIFuc/edit#gid=671465451)
-
----
-
-![Buffer Benchmark](buffer.png)
 
 ---
 
