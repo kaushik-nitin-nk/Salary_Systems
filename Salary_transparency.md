@@ -2,9 +2,16 @@
 
 <br />
 <br />
-Presented by
 
-##### <span style="color:#42affa"> Thomas Bernard & Nitin Kaushik </span>
+> Presented by
+> ##### Thomas Bernard & Nitin Kaushik
+
+---
+
+## Do Businesses dwell on Transparency ?
+ <img src="sharesalary.png" alt="Businesses are split on transparency" height="200" width='500'/>
+
+> _,,71% of employees are willing to sacrifice parts of their salary for the right company culture - HAYS, 2017 "_
 
 ---
 
@@ -55,13 +62,6 @@ _27%_ of _5000_ employees surveyed says their company currently shares Salary Ra
 
 ---
 
-## Do Businesses dwell on Transparency ?
- <img src="sharesalary.png" alt="Businesses are split on transparency" height="200" width='500'/>
-
-> _,,71% of employees are willing to sacrifice parts of their salary for the right company culture - HAYS, 2017 "_
-
----
-
 ## Buffer
 
 🏢 Social media management company helping clients build their brands.
@@ -71,12 +71,12 @@ _27%_ of _5000_ employees surveyed says their company currently shares Salary Ra
 👩👨 85 people living and working in 15 countries
 
 ---
+
 ## Buffer Values
 
 <img src="Buffer_Values.jpg" alt="Buffer Values" width="500"/>
 
 ---
-
 
 ## Buffer Salary System
 
@@ -100,6 +100,7 @@ In _2013_, Buffer - made all its employee salaries public.
     - Other Factors - Dependent grant and Salary choice option
     
 > Note : _The new formula isn’t based on location_ 
+
 ---
 
 ## Improvement to Salary Formula
@@ -109,13 +110,14 @@ In _2013_, Buffer - made all its employee salaries public.
 * Integrate the new company-wide career frameworks
 
 > _Overall, this resulted in an annual budget increase of $711,565._
+
 ---
 
 ## Growing Horizontally or Vertically?
 
 Buffer’s new unified career framework made career progression transparent :
 
-    1.Levels: Large, distinct steps in Knowledge, Role complexity
+    1. Levels: Large, distinct steps in Knowledge, Role complexity
                and Scope.
     2. Steps: Smaller milestones in terms of ownership and initiative.
 
@@ -292,4 +294,4 @@ by Chris Rufer [CEO and Founder]
     6. https://buffer.com/resources/salary-formula/
     7. https://www.agile42.com/en/blog/2017/01/20/sipgate-different-company/
     8. https://www.sipgate.de/
-    
+
