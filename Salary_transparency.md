@@ -1,11 +1,11 @@
-## Salary Transparency - A big Yes(👍) or No (👎)?
+
+## Salary Transparency - A big 👍 or 👎?
 
 <br />
 <br />
 
 > Presented by
->
-> ##### Thomas Bernard & Nitin Kaushik
+> ##### Thomas Bernards & Nitin Kaushik
 
 ---
 
@@ -13,15 +13,7 @@
 
  <img src="sharesalary.png" alt="Businesses are split on transparency" height="200" width='500'/>
 
-> _,,71% of employees are willing to sacrifice parts of their salary for the right company culture - HAYS, 2017 "_
-
----
-
-_27%_ of _5000_ employees surveyed says their company currently shares Salary Ranges with employees, candidates or both."
-<br />
-<br />
-
-> _,,LinkedIn’s Global Talent Trends, 2019''_
+_,,27%_ of _5000_ employees surveyed says their company currently shares Salary Ranges with employees, candidates or both." - _LinkedIn’s Global Talent Trends, 2019_ 
 
 ---
 
@@ -67,7 +59,7 @@ _27%_ of _5000_ employees surveyed says their company currently shares Salary Ra
 
 ## Buffer
 
-🏢 Social media management company helping clients build their brands.
+🏢 Social media management company helping clients build their brands
 
 💸 Serving more than 73,000 customers
 
@@ -85,10 +77,9 @@ _27%_ of _5000_ employees surveyed says their company currently shares Salary Ra
 
 > _CORE VALUE : "Default to Transparency"_
 
-In _2013_, Buffer - made all its employee salaries public.
-<br> </br>
+In _2013_, Buffer - made all its employee salaries public
 
-> _,,There were so many unknowns, Scared - says Carolyn Kopprash, Chief happiness officer, Buffer”._
+> _,,There were so many unknowns, Scared - says Carolyn Kopprash, Chief happiness officer, Buffer”_
 
 ---
 
@@ -113,7 +104,7 @@ In _2013_, Buffer - made all its employee salaries public.
 - Re-evaluate our salary-data source
 - Integrate the new company-wide career frameworks
 
-> _Overall, this resulted in an annual budget increase of $711,565._
+> _Overall, this resulted in an annual budget increase of $711,565_
 
 ---
 
@@ -122,8 +113,8 @@ In _2013_, Buffer - made all its employee salaries public.
 Buffer’s new unified career framework made career progression transparent :
 
     1. Levels: Large, distinct steps in Knowledge, Role complexity
-               and Scope.
-    2. Steps: Smaller milestones in terms of ownership and initiative.
+               and Scope
+    2. Steps: Smaller milestones in terms of ownership and initiative
 
 ## <img src="Current_career_framework.jpg" alt="Current_career_framework" width="500"/>
 
@@ -133,13 +124,14 @@ Buffer’s new unified career framework made career progression transparent :
 
 ![Buffer Salary](Image3_salary_at_Buffer.jpg)
 
-Full list is available at : [Buffer Salaries 2021](https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjIFuc/edit#gid=671465451)
+Full list is available at : [Buffer Salaries 2021](https://buffer.com/salaries)
 
 ---
 
 ## 🔜
 
-Changes to the Cost of Living Factor
+
+_Changes to the Cost of Living Factor_
 
 ---
 
