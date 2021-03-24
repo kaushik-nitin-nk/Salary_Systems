@@ -4,11 +4,13 @@
 <br />
 
 > Presented by
+>
 > ##### Thomas Bernard & Nitin Kaushik
 
 ---
 
 ## Do Businesses dwell on Transparency ?
+
  <img src="sharesalary.png" alt="Businesses are split on transparency" height="200" width='500'/>
 
 > _,,71% of employees are willing to sacrifice parts of their salary for the right company culture - HAYS, 2017 "_
@@ -18,7 +20,8 @@
 _27%_ of _5000_ employees surveyed says their company currently shares Salary Ranges with employees, candidates or both."
 <br />
 <br />
-> _,,LinkedIn’s Global Talent Trends, 2019''_ 
+
+> _,,LinkedIn’s Global Talent Trends, 2019''_
 
 ---
 
@@ -40,7 +43,7 @@ _27%_ of _5000_ employees surveyed says their company currently shares Salary Ra
 
 - Building Trust
 
- > _,,Sharing salary can remove inequalities and close the gap, also leading to equal gender-pay''._
+> _,,Sharing salary can remove inequalities and close the gap, also leading to equal gender-pay''._
 
 ---
 
@@ -90,6 +93,7 @@ In _2013_, Buffer - made all its employee salaries public.
 ---
 
 ## Salary Formula 3.0
+
 <img src="buffer.png" alt="Buffer Benchmark" height="200"/>
 
     - SF 50% Benchmark - San Francisco 50th percentile market rate
@@ -98,16 +102,16 @@ In _2013_, Buffer - made all its employee salaries public.
     - Role Multiplier - Contributor to salary progression & Seniority
     - Experience Factor - Applicable experience level
     - Other Factors - Dependent grant and Salary choice option
-    
-> Note : _The new formula isn’t based on location_ 
+
+> Note : _The new formula isn’t based on location_
 
 ---
 
 ## Improvement to Salary Formula
 
-* Re-benchmark base pay
-* Re-evaluate our salary-data source
-* Integrate the new company-wide career frameworks
+- Re-benchmark base pay
+- Re-evaluate our salary-data source
+- Integrate the new company-wide career frameworks
 
 > _Overall, this resulted in an annual budget increase of $711,565._
 
@@ -133,7 +137,7 @@ Full list is available at : [Buffer Salaries 2021](https://docs.google.com/sprea
 
 ---
 
-##  🔜
+## 🔜
 
 Changes to the Cost of Living Factor
 
@@ -166,25 +170,27 @@ Changes to the Cost of Living Factor
 
 ---
 
-## Sipgate :telephone_receiver:
+## Sipgate 📞
 
-🏢 Telecommunication company
+🏢 Telecommunication company - VoIP
 
 🌐 Located in Düsseldorf
 
-👩👨 200 employees
+👩👨 200 agile employees
+
+💡 Flat hierarchies & high level of personal responsibility
 
 ---
 
 ## Sipgate Lean Salary Framework
 
-Market-oriented approach
+        Market-oriented approach
 
-No individual negotiation but individual salaries
+        No individual negotiation but individual salaries
 
-More transparency leads to less discussion
+        More transparency leads to less discussion
 
-Salary raise each year for all
+        Salary raise each year for all
 
 ---
 
@@ -192,17 +198,19 @@ Salary raise each year for all
 
 **_1. Role factor_** based on market analysis
 
-**_2. Local Points_** based on the plant location
+**_1.2 Local Points_** based on the plant location
 
-**_3.Currency Factor_** (10€)
+**_1.3 Currency Factor_** (x 10€)
 
-**_4. Role Fixum_** for everybody (1000€)
+**_1.4 Role Fixum_** for everybody (+ 1000€)
 
-**_5. Loyalty_** based on company affiliation
+**_2. Loyalty_** based on company affiliation
 
-**_6. Experience_** based on field of knowledge
+**_3. Experience_** based on field of knowledge
 
-_Factor 5 & 6 are frozen after 15 years_
+**_4. Personal Educational Path_** based on conventional education
+
+_Factor 2 & 3 are frozen after 15 years_
 
 ---
 
@@ -210,19 +218,15 @@ _Factor 5 & 6 are frozen after 15 years_
 
 Studied and non-studied earn the same but studying costs time so if you study you lose time that you could have gathered for factor Loyalty & Experience:
 
-- plus 2000€ for a bachelors degree
+➕ 2000€ for a bachelors degree
 
-- plus 4000€ for a masters degree
+➕ 4000€ for a masters degree
 
-- plus X per day for on-call service
+➕ X per day for on-call service
 
 ---
 
 ![Sipgate](Sipgate.jpg)
-
----
-
-## Pros and Cons List
 
 ---
 
@@ -294,4 +298,3 @@ by Chris Rufer [CEO and Founder]
     6. https://buffer.com/resources/salary-formula/
     7. https://www.agile42.com/en/blog/2017/01/20/sipgate-different-company/
     8. https://www.sipgate.de/
-
