@@ -188,7 +188,7 @@ _Changes to the Cost of Living Factor_
 
 ## Factors
 
-**_1. Role factor_** based on market analysis
+**_1.1 Role factor_** based on market analysis
 
 **_1.2 Local Points_** based on the plant location
 
@@ -201,8 +201,6 @@ _Changes to the Cost of Living Factor_
 **_3. Experience_** based on field of knowledge
 
 **_4. Personal Educational Path_** based on conventional education
-
-_Factor 2 & 3 are frozen after 15 years_
 
 ---
 
@@ -222,7 +220,9 @@ Studied and non-studied earn the same but studying costs time so if you study yo
 
 ---
 
-## 💶 Welcome to Morning Star, how much money would you like to earn? 💵
+##  Welcome to Morning Star
+
+💶 _How much money would you like to earn?_ 💵
 
 ---
 
