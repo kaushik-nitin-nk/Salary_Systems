@@ -162,9 +162,9 @@ _Changes to the Cost of Living Factor_
 
 ---
 
-## Sipgate 📞
+## Sipgate
 
-🏢 Telecommunication company - VoIP
+📞 Telecommunication company - VoIP
 
 🌐 Located in Düsseldorf
 
