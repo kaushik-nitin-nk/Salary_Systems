@@ -73,6 +73,11 @@ _,,27%_ of _5000_ employees surveyed says their company currently shares Salary 
 
 ---
 
+## Transparency 
+<img src="Transparency.jpg" alt="Transparency at Buffer" width="500"/>
+
+---
+
 ## Buffer Salary System
 
 <br>
