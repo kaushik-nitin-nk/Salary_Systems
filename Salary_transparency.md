@@ -1,10 +1,10 @@
-
 ## Salary Transparency - A big 👍 or 👎?
 
 <br />
 <br />
 
 > Presented by
+>
 > ##### Thomas Bernards & Nitin Kaushik
 
 ---
@@ -13,7 +13,7 @@
 
  <img src="sharesalary.png" alt="Businesses are split on transparency" height="200" width='500'/>
 
-_,,27%_ of _5000_ employees surveyed says their company currently shares Salary Ranges with employees, candidates or both." - _LinkedIn’s Global Talent Trends, 2019_ 
+_,,27%_ of _5000_ employees surveyed says their company currently shares Salary Ranges with employees, candidates or both." - _LinkedIn’s Global Talent Trends, 2019_
 
 ---
 
@@ -74,6 +74,7 @@ _,,27%_ of _5000_ employees surveyed says their company currently shares Salary 
 ---
 
 ## Buffer Salary System
+
 <br>
 </br>
 
@@ -129,7 +130,6 @@ Full list is available at : [Buffer Salaries 2021](https://buffer.com/salaries)
 ---
 
 ## 🔜
-
 
 _Changes to the Cost of Living Factor_
 
@@ -192,9 +192,9 @@ _Changes to the Cost of Living Factor_
 
 **_1.2 Local Points_** based on the plant location
 
-**_1.3 Currency Factor_** (x 10€)
+**_1.3 Currency Factor_**
 
-**_1.4 Role Fixum_** for everybody (+ 1000€)
+**_1.4 Role Fixum_** for everybody (+1000€)
 
 **_2. Loyalty_** based on company affiliation
 
@@ -206,13 +206,15 @@ _Changes to the Cost of Living Factor_
 
 ## Additional Factors
 
-Studied and non-studied earn the same but studying costs time so if you study you lose time that you could have gathered for factor Loyalty & Experience:
+Studied and non-studied earn the same
+
+Opportunity cost of studying = Disadvantage in Loyalty & Experience:
 
 ➕ 2000€ for a bachelors degree
 
 ➕ 4000€ for a masters degree
 
-➕ X per day for on-call service
+➕ X € per day for on-call service
 
 ---
 
@@ -220,7 +222,13 @@ Studied and non-studied earn the same but studying costs time so if you study yo
 
 ---
 
-##  Welcome to Morning Star
+## Limitation
+
+![Limitations](sipgate_limitations.png)
+
+---
+
+## Welcome to Morning Star
 
 💶 _How much money would you like to earn?_ 💵
 
