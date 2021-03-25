@@ -74,8 +74,8 @@ _,,27%_ of _5000_ employees surveyed says their company currently shares Salary 
 ---
 
 ## Buffer Salary System
-
-> _CORE VALUE : "Default to Transparency"_
+<br>
+</br>
 
 In _2013_, Buffer - made all its employee salaries public
 
