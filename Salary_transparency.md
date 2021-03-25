@@ -268,12 +268,14 @@ by Chris Rufer [CEO and Founder]
 
 ---
 
-## The evolution of salaries
+## Overview
 
 | **Name** |    Buffer and sipgate     |        Morningstar         |
 | :------- | :-----------------------: | :------------------------: |
 | **How?** |          Formula          |      Self-assessment       |
 | **Why?** | Transparency and Fairness | Sensitize / Responsibility |
+
+All ideas focus on breaking up old structures, creating transparency, enhancing responsibility and are based on data!
 
 ---
 
@@ -298,3 +300,4 @@ by Chris Rufer [CEO and Founder]
     6. https://buffer.com/resources/salary-formula/
     7. https://www.agile42.com/en/blog/2017/01/20/sipgate-different-company/
     8. https://www.sipgate.de/
+    9. https://www.managementtoday.co.uk/let-employees-decide-own-salaries/food-for-thought/article/1580122
